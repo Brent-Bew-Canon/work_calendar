@@ -19,4 +19,4 @@ https://brent-bew-canon.github.io/work_calendar/
 
 
 ## Screenshot
-![Calendar Screenshot](assets/workday.png)
+![Calendar Screenshot](Assets/workday.png)
